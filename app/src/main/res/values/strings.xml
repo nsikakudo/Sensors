@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sensors</string>
+    <string name="light_sensor">Light Sensor</string>
+    <string name="proximity_sensor">Proximity Sensor</string>
+    <string name="all_detected_sensors_in_your_device">All Detected Sensors</string>
+    <string name="lx">%1$f lx</string>
+    <string name="close">%1$f (Close)</string>
+    <string name="far">%1$f (Far)</string>
+    <string name="accuracy_unreliable">Accuracy UNRELIABLE</string>
+    <string name="accuracy_low">ACCURACY LOW</string>
+    <string name="accuracy_medium">ACCURACY MEDIUM</string>
+    <string name="accuracy_high">ACCURACY HIGH</string>
+    <string name="unknown_accuracy">Unknown Accuracy</string>
+</resources>
